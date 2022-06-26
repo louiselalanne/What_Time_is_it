@@ -13,5 +13,7 @@ Creating an application for displaying the world clock using the polymorphism co
 </br>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/100588945/175812339-508f1946-37ab-4880-bfe4-83045cb5f092.png">
-</p>
+<br>
 made with ♥️ by Louise Lalanne
+</p>
+
